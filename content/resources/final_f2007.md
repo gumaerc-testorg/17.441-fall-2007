@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: f16c1949-21fa-ae8e-1005-0d383b50fcf3
 resourcetype: Document
 title: "Final Exam \u2013 Take Home"
 uid: 8c2e3cd3-62f5-3a26-3be7-92096b9b610b

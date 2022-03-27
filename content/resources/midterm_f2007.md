@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: f16c1949-21fa-ae8e-1005-0d383b50fcf3
 resourcetype: Document
 title: "Mid-Term Exam \u2013 Take Home"
 uid: bcff11e6-2c80-722b-ebd7-f2f6feb4e370
