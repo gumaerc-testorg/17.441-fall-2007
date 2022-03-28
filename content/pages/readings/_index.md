@@ -3,6 +3,7 @@ content_type: page
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
+parent_uid: null
 title: Readings
 uid: b4014953-407a-fb2a-b259-7fd510561e22
 ---
@@ -17,7 +18,7 @@ McNeill, J. R. _Something New Under the Sun: An Environmental History of the Twe
 Other References
 ----------------
 
-A list of references can be found [here]({{< baseurl >}}/pages/readings/references). Note that some of the references appear below.
+A list of references can be found {{< resource_link 94f23b2d-4a10-e05b-34bc-4bc0344b2e92 "here" >}}. Note that some of the references appear below.
 
 Readings by Session
 -------------------
