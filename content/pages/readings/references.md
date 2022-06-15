@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a list of additional references for the course
+  along with a list of readings assigned by lecture session.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
