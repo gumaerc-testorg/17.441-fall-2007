@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on course meeting times, prerequisites, required texts, readings, grading, written
+  requirements, the mid-term exam, and the course calendar.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 3ede8788-481b-581a-efe4-599fc96b6908
 ---

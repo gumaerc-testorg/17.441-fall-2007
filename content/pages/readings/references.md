@@ -1,6 +1,12 @@
 ---
 content_type: page
+description: This section provides a list of additional references for the course
+  along with a list of readings assigned by lecture session.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 parent_title: Readings
+parent_type: CourseSection
 parent_uid: b4014953-407a-fb2a-b259-7fd510561e22
 title: Other References
 uid: 94f23b2d-4a10-e05b-34bc-4bc0344b2e92
