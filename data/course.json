@@ -2,7 +2,8 @@
   "term": "Fall",
   "year": "2007",
   "level": [
-    "Undergraduate"
+    "Undergraduate",
+    "Graduate"
   ],
   "topics": [
     [
@@ -56,6 +57,7 @@
     "Exams",
     "Written Assignments"
   ],
-  "site_uid": "139fce7e-73ee-488a-b26b-b618a0dcdbfa",
+  "site_uid": "439aafbe-5967-4884-8790-bbed275e1811",
+  "site_short_id": "17.441-fall-2007",
   "title": "Course Metadata"
 }
