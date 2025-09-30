@@ -27,7 +27,7 @@ There are no prerequisites for this course.
 Required Texts
 --------------
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262621496) Luterbacher, Urs, and Detlef F. Sprinz, eds. [_International Relations and Global Climate Change_](https://mitpress.mit.edu/9780262621496). Cambridge, MA: MIT Press, 2001. ISBN: 9780262621496.
+{{% resource_link "bb045fe3-f05a-426d-80b3-10602e152431" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Luterbacher, Urs, and Detlef F. Sprinz, eds. {{% resource_link "bb045fe3-f05a-426d-80b3-10602e152431" "_International Relations and Global Climate Change_" %}}. Cambridge, MA: MIT Press, 2001. ISBN: 9780262621496.
 
 McNeill, J. R. _Something New Under the Sun: An Environmental History of the Twentieth-century World_. New York, NY: W.W. Norton, 2000. ISBN: 9780393049176.
 
