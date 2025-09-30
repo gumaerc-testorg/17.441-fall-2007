@@ -29,7 +29,7 @@ Holdren, John P., Gretchen C. Daily, and Paul R. Ehrlich. 1995. "The Meaning of 
 
 Keohane, Nathaniel O., Richard L. Revesz, and Robert N. Stavins. "The Choice of Regulatory Instruments in Environmental Policy." In _Economics of the Environment_. 5th ed. Edited by Robert N. Stavins. New York, NY: W.W. Norton, 2005. ISBN: 9780393927016.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262621885) Levy, David, and Peter J. Newell, eds. [_The Business of Global Environmental Governance_](https://mitpress.mit.edu/9780262621885). Cambridge, MA: MIT Press, 2004. ISBN: 9780262621885.
+{{% resource_link "ae44a4aa-521e-4d0e-aa8a-e18ceb11823a" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Levy, David, and Peter J. Newell, eds. {{% resource_link "ae44a4aa-521e-4d0e-aa8a-e18ceb11823a" "_The Business of Global Environmental Governance_" %}}. Cambridge, MA: MIT Press, 2004. ISBN: 9780262621885.
 
 Tietenberg, Tom H. "Economic Instruments for Environmental Regulation." In _Economics of the Environment_. 5th ed. Edited by Robert N. Stavins. New York, NY: W.W. Norton, 2005. ISBN: 9780393927016.
 
@@ -40,9 +40,9 @@ Barzel, Yoram. _Economic Analysis of Property Rights_. 2nd ed. Cambridge, UK: Ca
 
 Clark, Ian. _Globalization and International Relations Theory_. Oxford, UK: Oxford University Press, 1999. ISBN: 9780198782100.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262531344) Choucri, Nazli, ed. [_Global Accord: Environmental Challenges and International Response_](https://mitpress.mit.edu/9780262531344). Cambridge, MA: MIT Press, 1995. ISBN: 9780262531344.
+{{% resource_link "060b1099-00f2-4e02-9d89-df7c094d47de" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Choucri, Nazli, ed. {{% resource_link "060b1099-00f2-4e02-9d89-df7c094d47de" "_Global Accord: Environmental Challenges and International Response_" %}}. Cambridge, MA: MIT Press, 1995. ISBN: 9780262531344.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262032001) Haas, Peter M., with Jan Sundgren. "Evolving International Environmental Law: Changing Practices of National Sovereignty." In [_Global Accord: Environmental Challenges and International Responses_](https://mitpress.mit.edu/9780262032001). Edited by Nazli Choucri. Cambridge, MA: MIT Press, 1993. ISBN: 9780262032001.
+{{% resource_link "d93f9291-dc7f-490c-8813-bc556b6d753e" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Haas, Peter M., with Jan Sundgren. "Evolving International Environmental Law: Changing Practices of National Sovereignty." In {{% resource_link "d93f9291-dc7f-490c-8813-bc556b6d753e" "_Global Accord: Environmental Challenges and International Responses_" %}}. Edited by Nazli Choucri. Cambridge, MA: MIT Press, 1993. ISBN: 9780262032001.
 
 Hardin, Garrett. "The Tragedy of the Commons." In _Economics of the Environment_. 5th ed. Edited by Robert N. Stavins. New York, NY: W.W. Norton, 2005. ISBN: 9780393927016.
 
@@ -54,9 +54,9 @@ Jacoby, Henry D., et al. "Kyoto's Unfinished Business." In _Economics of the Env
 
 Kates, Robert W. "Population, Technology, and the Human Environment: A Thread Through Time." In _Technological Trajectories and the Human Environment_. Edited by Jesse H. Ausubel and H. Dale Langford. Washington, DC: National Academy Press, 1997. ISBN: 9780309051330.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262621236) Litfin, Karen T. "The Greening of Sovereignty: An Introduction." In [_The Greening of Sovereignty in World Politics_](https://mitpress.mit.edu/9780262621236). Edited by Karen T. Litfin. Cambridge, MA: MIT Press, 1998. ISBN: 9780262621236.
+{{% resource_link "db5a4439-9835-4171-8687-fc7ebdab0e92" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Litfin, Karen T. "The Greening of Sovereignty: An Introduction." In {{% resource_link "db5a4439-9835-4171-8687-fc7ebdab0e92" "_The Greening of Sovereignty in World Politics_" %}}. Edited by Karen T. Litfin. Cambridge, MA: MIT Press, 1998. ISBN: 9780262621236.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262122450) Lofdahl, Corey L. [_Environmental Impacts of Globalization and Trade: A Systems Study_](https://mitpress.mit.edu/9780262122450). Cambridge, MA: MIT Press, 2002. ISBN: 9780262122450.
+{{% resource_link "cca7e591-9329-43d1-a44e-4c0826c3878c" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Lofdahl, Corey L. {{% resource_link "cca7e591-9329-43d1-a44e-4c0826c3878c" "_Environmental Impacts of Globalization and Trade: A Systems Study_" %}}. Cambridge, MA: MIT Press, 2002. ISBN: 9780262122450.
 
 Ostrom, Elinor. _Governing the Commons: The Evolution of Institutions for Collective Action_. New York, NY: Cambridge University Press, 1990. ISBN: 9780521405997.
 
@@ -64,9 +64,9 @@ Ostrom, Elinor. _Governing the Commons: The Evolution of Institutions for Collec
 
 Sands, Philippe. "International Law in the Field of Sustainable Development: Emerging Legal Principles." In _Sustainable Development and International Law_. Edited by Winfried Lang. Boston, MA: Graham & Trotman/Martinus Nijhoff, 1995. ISBN: 9781859661796.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262032001) Skolnikoff, Eugene B. "Science and Technology: The Sources of Change." In [_Global Accord: Environmental Challenges and International Responses_](https://mitpress.mit.edu/9780262032001). Edited by Nazli Choucri. Cambridge, MA: MIT Press, 1993. ISBN: 9780262032001.
+{{% resource_link "d93f9291-dc7f-490c-8813-bc556b6d753e" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Skolnikoff, Eugene B. "Science and Technology: The Sources of Change." In {{% resource_link "d93f9291-dc7f-490c-8813-bc556b6d753e" "_Global Accord: Environmental Challenges and International Responses_" %}}. Edited by Nazli Choucri. Cambridge, MA: MIT Press, 1993. ISBN: 9780262032001.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262201537) Tester, Jefferson W., Elisabeth M. Drake, Michael J. Driscoll, Michael W. Golay, and William A. Peters, eds. [_Sustainable Energy: Choosing Among Options_](https://mitpress.mit.edu/9780262201537). Cambridge, MA: MIT Press, 2005. ISBN: 9780262201537.
+{{% resource_link "9124f455-b87f-4c22-a09b-48c7505df3c8" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Tester, Jefferson W., Elisabeth M. Drake, Michael J. Driscoll, Michael W. Golay, and William A. Peters, eds. {{% resource_link "9124f455-b87f-4c22-a09b-48c7505df3c8" "_Sustainable Energy: Choosing Among Options_" %}}. Cambridge, MA: MIT Press, 2005. ISBN: 9780262201537.
 
 Vitousek, Peter M., Harold A. Mooney, Jane Lubchenco, and Jerry M. Melillo. "Human Domination of Earth's Ecosystems." _Science New Series_ 277, no. 5325 (July 25, 1997): 494-499.
 
